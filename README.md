@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-Before using the CycleGAN model for image translation, some initial setup is required.
+Before using the TransCycleNet model for image translation, some initial setup is required.
 
 - **Dataset Preparation**: Prepare your own dataset or use the provided Monet-to-Photo dataset (used in the following code). Ensure that the dataset follows the required directory structure and image format.
 
