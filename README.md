@@ -39,13 +39,13 @@ To use the code in this repository, follow these steps
 - clone the repository
 
 ```bash
-gh repo clone MuthuPalaniappan925/Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms
+gh repo clone MuthuPalaniappan925/TransCycleNet
 ```
 
 - Navigate to the repository directory
 
 ```bash
-cd cycleGAN-image-translation 
+cd TransCycleNet
 ```
 
 - Install the required dependencies
