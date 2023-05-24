@@ -20,7 +20,7 @@ from instancenormalization import InstanceNormalization
 
 from matplotlib import pyplot
 
-## Discriminator model
+## Discriminator model - Paper Model
 
 def define_discriminator(image_shape):
 	# weight initialization - Random Fashion
